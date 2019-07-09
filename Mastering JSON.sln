@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLandJSON", "XMLandJSON\XM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonAndBson", "JsonAndBson\JsonAndBson.csproj", "{F51A1C3E-214F-4FDB-8DDD-1038B9AE9608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geocoding", "Geocoding\Geocoding.csproj", "{6D1D6AA7-6E9B-4613-9C69-5F39400BAC01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{F51A1C3E-214F-4FDB-8DDD-1038B9AE9608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F51A1C3E-214F-4FDB-8DDD-1038B9AE9608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F51A1C3E-214F-4FDB-8DDD-1038B9AE9608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1D6AA7-6E9B-4613-9C69-5F39400BAC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1D6AA7-6E9B-4613-9C69-5F39400BAC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1D6AA7-6E9B-4613-9C69-5F39400BAC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1D6AA7-6E9B-4613-9C69-5F39400BAC01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
